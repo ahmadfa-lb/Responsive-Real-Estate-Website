@@ -1,5 +1,5 @@
 # Responsive 🏠-Real-Estate-Website
-  - Responsive Real State Website Using HTML CSS & JavaScript
+  - Responsive Real Estate Website Using HTML CSS & JavaScript
   - Contains animations when scrolling.
   - Includes a dark and light mode.
   - Smooth scrolling in each section.
